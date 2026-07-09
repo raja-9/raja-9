@@ -44,15 +44,7 @@
     <td>🧹 <a href="https://github.com/raja-9/image-background-remover"><b>image-background-remover</b></a></td>
     <td>A lightweight Python CLI tool to remove backgrounds from images instantly</td>
   </tr>
-  <tr>
-    <td>🌐 <a href="https://github.com/raja-9/Lewin-Healthcare-web"><b>Lewin-Healthcare-web</b></a></td>
-    <td>A healthcare website project built with JavaScript</td>
-  </tr>
-  <tr>
-    <td>📄 <a href="https://github.com/raja-9/first-web"><b>first-web</b></a></td>
-    <td>My first web project, built with HTML</td>
-  </tr>
-</table>
+
 
 ---
 
