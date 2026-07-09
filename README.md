@@ -44,7 +44,7 @@
     <td>🧹 <a href="https://github.com/raja-9/image-background-remover"><b>image-background-remover</b></a></td>
     <td>A lightweight Python CLI tool to remove backgrounds from images instantly</td>
   </tr>
-
+</table>
 
 ---
 
