@@ -48,18 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raja-9&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=raja-9&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja-9&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
