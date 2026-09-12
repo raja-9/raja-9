@@ -81,18 +81,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raja-9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raja-9&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raja-9&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center"><i>Note: the stat cards above are live-rendered by third-party services — if one shows a broken icon, it's usually a temporary rate limit on their end; refresh the page and it'll load.</i></p>
 
 ---
 
