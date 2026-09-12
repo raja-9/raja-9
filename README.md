@@ -19,9 +19,7 @@
 
 - 🎨 Frontend developer focused on clean UI, motion, and interfaces that don't feel templated
 - ⚙️ It's not just about how it looks — if it's not responsive, fast, and actually functional, it's not done
-- 🏆 Competing in Smart India Hackathon 2026 with team **Sable**, building *SIF Sentinel* — an AI system that flags injury/fatality precursors from safety reports
 - 🌌 Draws design inspiration from sci-fi and space aesthetics — interactive, scroll-heavy, canvas-driven experiences
-- 🔁 Hackathon regular — haven't won one yet, still showing up
 - 💡 Mission: turn ideas into things people actually use
 
 ---
